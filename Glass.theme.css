@@ -12,8 +12,6 @@
 	* @updateUrl https://raw.githubusercontent.com/Lylythii/Glass/main/Glass.theme.css
 */
 
-@import url("https://raw.githubusercontent.com/Lylythii/Glass/main/glass_theme.css");
-
 #app-mount .bg-1QIAus {
 	background: var(--background-image);
 	background-position: var(--background-image-position, center);
