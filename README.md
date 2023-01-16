@@ -21,7 +21,7 @@ Place this (& your chosen background url) into "Custom CSS". (or some other meth
 :root,
 .theme-dark,
 .theme-light {
-	--backround-image: url('HTTPS_LINK_PNG_WEBP_ETC');
+	--background-image: url('HTTPS_LINK_PNG_WEBP_ETC');
 }
 ```
 Here's a good example;
@@ -30,6 +30,6 @@ Here's a good example;
 :root,
 .theme-dark,
 .theme-light {
-	--backround-image: url('https://raw.githubusercontent.com/Lylythii/Glass/main/background.png');
+	--background-image: url('https://raw.githubusercontent.com/Lylythii/Glass/main/background.png');
 }
 ```
