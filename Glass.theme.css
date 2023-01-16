@@ -174,3 +174,8 @@ background: none!important;
 .invisible-typing-button {
 	background-color: #00000080;
 } */
+
+/* SimpleDiscordCrypt Support? */
+.sdc-window, .sdc-footer, .sdc-overlay {
+	background-color: #00000080;
+}
