@@ -1,7 +1,7 @@
 /**
 	* @name Glass
 	* @description Transparency for the Discord client.
-	* @version 0.1.0
+	* @version 0.1.1
 	* @author Lylythii
 	* @authorId null
 	* @website https://lylythii.github.io
@@ -47,7 +47,7 @@
 	background-color: #00000080;
 }
 
-#app-mount .container-3wLKDe, .chat-2ZfjoI, .background-fkKrXt, .header-3xB4vB, .content-1jQy2l, .root-g14mjS, .fullscreenOnMobile-ixj0e3, .card-14SgW5, .theme-dark, .navRow-dG-XX8, .directoryModal-YJsOMv, .autocomplete-3NRXG8, .flex-2S1XBF {
+#app-mount .container-3wLKDe, .chat-2ZfjoI, .background-fkKrXt, .header-3xB4vB, .content-1jQy2l, .root-g14mjS, .fullscreenOnMobile-ixj0e3, .card-14SgW5, .theme-dark, .navRow-dG-XX8, .directoryModal-YJsOMv, .autocomplete-3NRXG8, .flex-2S1XBF, .applicationStore-2nk7Lo {
 	background: transparent;
 }
 /* User Profile */
@@ -69,7 +69,7 @@ background: none!important;
 }
 
 /* Inset backgrounds on elements */
-.message-2CShn3, .userPopoutInner-1hXSeY, .connectedAccountContainer-2TWiXT, .infoScroller-3MqKC5, .memberInner--L4X2b {
+.message-2CShn3, .userPopoutInner-1hXSeY, .connectedAccountContainer-2TWiXT, .infoScroller-3MqKC5, .memberInner--L4X2b, .privateChannels-oVe7HL, .container-2cd8Mz {
 	background-color: #00000080;
 	border: 1.5px inset #202225;
 }
@@ -114,7 +114,7 @@ background: none!important;
 }
 
 /* Scrollers */
-.scroller-kQBbkU, .scroller-3X7KbA, .scroller-1bVxF5 {
+.scroller-kQBbkU, .scroller-3X7KbA, .scroller-1bVxF5, .scroller-29cQFV {
 	background-color: #00000090;
 	border: 1.5px inset #202225;
 }
