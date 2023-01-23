@@ -14,8 +14,7 @@ Theme has minor visual issues in Light mode, I suggest switching to Dark mode.
 [Open an issue please](https://github.com/Lylythii/Glass/issues/new).
 
 ### Don't want to modify the theme directly to add a custom background?
-Place this (& your chosen background url) into "Custom CSS". (or some other method of applying CSS)
-
+Place this (& your chosen background url) into "Custom CSS". (or some other method of applying CSS);
 ```
 /* Set the background for the Glass theme */
 :root,
@@ -33,7 +32,7 @@ Here's a good example;
 	--background-image: url('https://raw.githubusercontent.com/Lylythii/Glass/main/background.png');
 }
 ```
-Here's another, using the same background as [Priscord](https://github.com/Lylythii/Priscord)
+Here's another, using the same background as [Priscord](https://github.com/Lylythii/Priscord);
 ```
 /* Set the background for the Glass theme */
 :root,
