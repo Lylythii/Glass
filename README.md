@@ -33,3 +33,12 @@ Here's a good example;
 	--background-image: url('https://raw.githubusercontent.com/Lylythii/Glass/main/background.png');
 }
 ```
+Here's another, using the same background as [Priscord](https://github.com/Lylythii/Priscord)
+```
+/* Set the background for the Glass theme */
+:root,
+.theme-dark,
+.theme-light {
+	--background-image: url('https://raw.githubusercontent.com/PrismLauncher/prismlauncher.org/40d89d06ae90c7cbef18b06f52fd9a4c30c61db8/src/img/background/prism-background.svg');
+}
+```
