@@ -1,3 +1,6 @@
+# [Glass has moved to Lylythii/BetterDiscordAddons/Themes](https://github.com/Lylythii/BetterDiscordAddons)
+# It will now only be maintained over there.
+
 # Glass
 For when you want Discord *entirely* transparent.
 ## How it looks on top of applications;
